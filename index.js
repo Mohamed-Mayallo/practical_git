@@ -21,4 +21,10 @@
  * git commit -am "Commit and add"
  *
  * git push origin -u master
+ *
+ * git branch
+ * git branch contacts
+ * git checkout contacts
+ * git checkout -b contacts
+ * git branch -D contacts
  */
