@@ -27,4 +27,6 @@
  * git checkout contacts
  * git checkout -b contacts
  * git branch -D contacts
+ *
+ * git merge contacts
  */
