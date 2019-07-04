@@ -29,4 +29,13 @@
  * git branch -D contacts
  *
  * git merge contacts
+ *
+ * git branch -a
+ *
+ * git push origin --delete feature
+ * git push -u origin master   [-u (short for --set-upstream)]
+ * git branch --unset-upstream
+ *
+ * git log
+ * git log -1
  */
