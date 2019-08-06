@@ -59,4 +59,6 @@
  * git stash -a
  * git stash drop
  * git stash drop stash@{2}
+ *
+ * new feature
  */
