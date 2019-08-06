@@ -29,6 +29,9 @@
  * git branch -D contacts
  *
  * git merge contacts
+ * git merge --abort
+ * git checkout --ours .
+ * git checkout --theirs .
  *
  * git branch -a
  *
@@ -60,5 +63,5 @@
  * git stash drop
  * git stash drop stash@{2}
  *
- * new feature
+ * git merge --abort
  */
